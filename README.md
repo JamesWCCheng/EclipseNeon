@@ -1,7 +1,7 @@
 ##Setting
 
 
-File->Import->General->Preference, add eclipse-formatter-for-mozilla.xml
+ selecting "C/C++ > Code Style > Formatter", and then using the "Import" button to import that file 。add eclipse-formatter-for-mozilla.xml
 
 
 ##Creating an Eclipse project
